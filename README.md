@@ -1,8 +1,7 @@
 # Credit Card Fraud Detection Using Anomaly Detection Techniques
-**Live Demo:** 
+**Live Demo:**
 
-https://frauddetection1-goedxft4tnviaure33ogvo.streamlit.app
-
+https://fake-news-detection-fhhasa99fwm447pany6ez2.streamlit.app/
 
 ## Problem
 Credit card fraud is rare (0.17% of transactions in this dataset) but costly.
