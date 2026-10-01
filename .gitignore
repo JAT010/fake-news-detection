@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.DS_Store
+
+# Raw dataset - too large for GitHub, not needed for the deployed app
+data/creditcard.csv
+
+# Full train/test splits - used only in notebooks, not needed for deployment
+data/processed/X_train.csv
+data/processed/X_test.csv
+data/processed/y_train.csv
+data/processed/y_test.csv
